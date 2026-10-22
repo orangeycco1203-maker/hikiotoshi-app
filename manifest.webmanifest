@@ -1,0 +1,24 @@
+{
+  "name": "引き落とし、足りる？",
+  "short_name": "引落チェック",
+  "description": "銀行残高と引き落とし予定から不足額を確認",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fa",
+  "theme_color": "#183249",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
